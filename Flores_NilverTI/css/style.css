@@ -1,3 +1,18 @@
+
+.audio-player {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    background: #282c34;
+    padding: 10px;
+    border-radius: 8px;
+    color: rgb(red);
+}
+audio {
+    width: 15%;
+    
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,900&display=swap');
 *{
     font-family: 'Poppins',cursive;
